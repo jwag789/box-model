@@ -12,6 +12,10 @@ Box-Model
 * Transparent background
 * Useful for positioning; breathing room
 
+* Setting margin left to auto will put your element flush to the right
+* Setting margin right to auto will put your element flush to the left
+* Setting both left and right margins to auto will center your element
+
 <pre><code>
 	div {
 		margin: 20px;
