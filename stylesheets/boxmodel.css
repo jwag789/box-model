@@ -1,0 +1,114 @@
+
+.top {
+	border: 5px solid blue;
+	background-color: #CCFFFF;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+	/*outline: 10px dashed red;*/
+}
+
+.bottom {
+	border: 5px solid blue;
+	background-color: #9966FF;
+	text-align: center;
+	clear: both;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+	/*outline: 1px dashed red;*/
+}
+
+.container {
+	background-color: #FFFFCC;
+	border: 1px solid black;
+	margin: 0px;
+	clear: both;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	/*outline-color: red;*/
+	/*outline: 1px dashed red;*/
+}
+
+h1 {
+	/*border-top-left-radius: 3em 0.5em;
+border-top-right-radius: 1em 5em;
+border-bottom-right-radius: 4em 0.5em;
+border-bottom-left-radius: 1em 3em;*/
+	/*outline: 1px dashed red;*/
+	/*outline-color: red;*/
+	border: 5px solid black;
+	/*border-radius: 20px;*/
+	/*border: 10px outset #9966FF;*/
+	color:#333333;
+	padding: 0px;
+	margin: 0px;
+	font-size: 8em;
+	display: inline-block;
+	background-color: red;
+	/*border-radius: 2em 1em 4em 2em;*/
+}
+
+.top h2{
+	/*outline: 10px dashed red;*/
+	font-size: 5em;
+}
+
+.bottom h2{
+	font-size: 5em;
+}
+
+
+
+.one {
+	background-color: #9D8E0D;
+}
+
+.two {
+	background-color: #3D6F62;
+}
+
+.three {
+	background-color: #67D067;
+}
+
+.four {
+	background-color: #2C5914;
+}
+
+.five {
+	background-color: #2D70A7;
+}
+
+.six {
+	background-color: #C97A46;
+}
+
+.seven {
+	background-color: #33733F;
+}
+
+.eight {
+	background-color: #89912F;
+}
+
+.nine {
+	background-color: #C09557;
+}
+
