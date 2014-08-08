@@ -4,7 +4,7 @@
 	background-color: #CCFFFF;
 	text-align: center;
 	margin-left: 0px;
-	margin-top: 0px;
+	margin-top: 50px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	padding-left: 0px;
@@ -13,7 +13,7 @@
 	padding-bottom: 0px;
 	/*margin: 0px;*/
 	padding: 0px;
-	/*outline: 10px dashed red;*/
+	outline: 10px dashed red;
 	/*width: 200px;
 	margin-left: auto;
     margin-right: auto;*/
@@ -24,7 +24,7 @@
 	background-color: #9966FF;
 	text-align: center;
 	clear: both;
-	margin-left: 0px;
+	margin-left: 50px;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -42,28 +42,29 @@
 	border: 5px solid black;
 	clear: both;
 	text-align: center;
-	padding: 0px;
-	margin: 0px;
+	padding: 50px;
+	margin: 50px;
 	/*padding-left: 0px;*/
 	/*outline-color: red;*/
 	/*outline: 1px dashed red;*/
 }
 
 h1 {
-	/*border-top-left-radius: 3em 0.5em;
+	border-top-left-radius: 3em 0.5em;
 border-top-right-radius: 1em 3em;
 border-bottom-right-radius: 4em 0.5em;
-border-bottom-left-radius: 1em 3em;*/
+border-bottom-left-radius: 1em 3em;
 	/*outline: 1px dashed red;*/
 	/*outline-color: red;*/
 	border: 5px solid black;
 	/*border-radius: 20px;*/
-	/*border: 10px outset #9966FF;*/
+	border: 10px outset #9966FF;
 	color:#333333;
 	padding: 0px;
 	margin: 0px;
 	font-size: 8em;
 	display: inline-block;
+	background-color: red;
 	/*border-radius: 2em 1em 4em 2em;*/
 }
 
