@@ -57,7 +57,7 @@ The term box model is used to talk about the design and layout of HTML elements.
 * Border-radius property allows you to define the shape element
 * Styles include solid, double, dotted, dashed, outset, [and more](http://www.w3schools.com/cssref/pr_border-style.asp)
 
-A good tool to find what values you might want to use for your border-radius property: <http://border-radius.com/>
+A good tool to find what values you might want to use for your border-radius property: <http://www.cssmatic.com/border-radius>
 
 <pre><code>
 	div {
@@ -104,7 +104,7 @@ However, with CSS3 allows the box-sizing property, which affects the element dif
 
 # Resources
 
-<http://border-radius.com/>
+<http://www.cssmatic.com/border-radius>
 <http://www.w3schools.com/cssref/pr_border-style.asp>
 <http://learn.shayhowe.com/html-css/opening-the-box-model/>
 <http://css-tricks.com/almanac/properties/o/outline/>
