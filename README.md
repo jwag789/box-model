@@ -5,6 +5,8 @@ Box-Model
 
 ![alt tag](/imgs/box.png?raw=true "BOX MODEL")
 
+The term box model is used to talk about the design and layout of HTML elements. Every HTML element can be considered a box, no matter the shape. The element consists of the actual content (image, text, etc.), padding, margin, and border.
+
 # Margin
 
 * Sets space around an element
